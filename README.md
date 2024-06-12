@@ -37,3 +37,6 @@ Each row represents a survey response with attributes related to McDonald's food
 
 # Results
 The analysis identifies several customer segments with distinct preferences and demographic profiles. These segments can be used to tailor marketing strategies and improve customer satisfaction.
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
